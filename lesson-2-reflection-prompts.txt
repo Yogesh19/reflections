@@ -1,0 +1,41 @@
+What happens when you initialize a repository? 
+Initialized empty Git repository 
+
+Why do you need to do it?
+
+
+The git init command creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository. Most other Git commands are not available outside of an initialized repository, so this is usually the first command you'll run in a new project
+
+How is the staging area different from the working directory and the repository?
+
+
+It is middle level directory to store the files so if we want to commit few files from repository then we will first add them into statging area and later add them into Working directory.
+
+What value do you think it offers?
+
+
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+
+
+What are some situations when branches would be helpful in keeping your history
+organized?
+
+How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+
+
+What is the result of merging two branches together?
+
+Why do we represent it in
+the diagram the way we do?
+
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
